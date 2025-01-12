@@ -1,0 +1,271 @@
+/* цвет фона */
+html, .other_cats_list,  #main, body {
+    background-color: #484545 !important;
+}
+/* цвет текста */
+#main, a, .a_none, #moveup, #movedown, .a_none:hover, #moveup:hover, #movedown:hover, #blocks, .element-text, .btn-kns {
+    color: #000000 !important;
+}
+
+/* цвет левого поля */
+#blocks{
+	background-color: #6b6666 !important;
+}
+
+/* коробка ползунка */
+::-webkit-scrollbar-track {
+	background-color: #2b2828 !important;
+}
+
+/* цвет ползунка */
+::-webkit-scrollbar-thumb {
+	background-color: #595353 !important;
+}
+
+/* рамка выделенных элементов */
+.element.sel, .selected_colour, .selected_field,
+#mutation_buttons .activated_button, #variation_buttons .activated_button, #scar_buttons div.activated_button  {
+	border-color: white !important;
+}
+
+  /* кнопки - ширина кнопок | цвет кнопок | закругление кнопок */
+.element-text, .btn-kns {
+	border: 1px solid transparent !important;
+	background: #6c6565 !important;
+	border-radius: 0.8rem !important;
+}
+
+  /* ползунок непрозрачности элементов */
+
+  /* основное поле - цвет поля | цвет границы поля */
+input[type=range]::-webkit-slider-runnable-track {
+	background: #807373 !important;
+	border: 1px solid #393434 !important;
+}
+  /* толщина и цвет границы кружочка | цвет кружочка  */
+input[type=range]::-webkit-slider-thumb {
+	border: 3px solid #610f0f !important;
+	background: #8c2525 !important;
+}
+
+  /* цвет кнопок (краешки у ползунка непрозрачности меняются вместе с ними)  */
+input, button, select {
+    background: #c9c9c9 !important;
+}
+
+ /* возвращает картинку на кнопки копирования кодов */
+.copy {
+	width: 40px !important;
+  background: url(/cw3/symbole/copy.png) no-repeat  !important;
+}
+
+ /* цвет плашки подтверждения сброса окраса */
+#confirm {
+	background: #9f9d99 !important;
+}
+
+  /* фоны в поле с котом */
+ [style*='spacoj/0.jpg']  {
+    background:transparent url(https://i.imgur.com/tIojIjJ.png) !important;
+}
+
+ [style*='spacoj/71076.jpg']  {
+    background:transparent url(https://i.imgur.com/yG3C7dm.png) !important;
+}
+
+[style*='spacoj/82013.jpg']  {
+    background:transparent url(https://i.imgur.com/OagimOA.png) !important;
+}
+
+/* шрамы и особенности */
+[style*='/cw3/characteristics/2/1.png']
+  {
+    background:transparent url(https://imgur.com/PjjLXGX.png) !important;
+}
+
+[style*='/cw3/characteristics/2/2.png']
+  {
+    background:transparent url(https://i.imgur.com/VvUOkNj.png) !important;
+}
+
+[style*='/cw3/characteristics/2/3.png']
+  {
+    background:transparent url(https://i.imgur.com/3Ph1TSs.png) !important;
+}
+
+[style*='/cw3/characteristics/2/4.png']
+  {
+    background:transparent url(https://i.imgur.com/D1D8bCZ.png) !important;
+}
+
+[style*='/cw3/characteristics/2/5.png']
+  {
+    background:transparent url(https://i.imgur.com/osfyIHA.png) !important;
+}
+
+[style*='/cw3/characteristics/2/6.png']
+  {
+    background:transparent url(https://i.imgur.com/IejGA6I.png) !important;
+}
+
+[style*='/cw3/characteristics/2/7.png']
+  {
+    background:transparent url(https://i.imgur.com/xkq7eI9.png) !important;
+}
+
+[style*='/cw3/characteristics/2/8.png']
+  {
+    background:transparent url(https://i.imgur.com/pSKVwKF.png) !important;
+}
+
+[style*='/cw3/characteristics/2/9.png']
+  {
+    background:transparent url(https://i.imgur.com/OJ6f64q.png) !important;
+}
+
+[style*='/cw3/characteristics/2/10.png']
+  {
+    background:transparent url(https://i.imgur.com/m4zWHQX.png) !important;
+}
+
+[style*='/cw3/characteristics/2/11.png']
+  {
+    background:transparent url(https://i.imgur.com/Chl6NzL.png) !important;
+}
+
+[style*='/cw3/characteristics/2/12.png']
+  {
+    background:transparent url(https://i.imgur.com/5erV4PE.png) !important;
+}
+
+[style*='/cw3/characteristics/2/13.png']
+  {
+    background:transparent url(https://i.imgur.com/HxUPumY.png) !important;
+}
+
+[style*='/cw3/characteristics/2/14.png']
+  {
+    background:transparent url(https://i.imgur.com/7Pg577O.png) !important;
+}
+
+[style*='/cw3/characteristics/2/15.png']
+  {
+    background:transparent url(https://i.imgur.com/Hlud9iD.png) !important;
+}
+
+/* иконки элементов */
+
+/* усы */
+[style*='whisker/1/icons/4.png']  {
+    background:transparent url(https://i.imgur.com/MJfLhOd.png) !important;
+}
+
+[style*='whisker/1/icons/3.png']  {
+    background:transparent url(https://i.imgur.com/Lm8iy1j.png) !important;
+}
+
+[style*='whisker/1/icons/2.png']  {
+    background:transparent url(https://i.imgur.com/RqAFK7z.png) !important;
+}
+
+[style*='whisker/1/icons/1.png']  {
+    background:transparent url(https://i.imgur.com/mIwxx77.png) !important;
+}
+
+/* носы */
+[style*='nose/1/icons/1.png']  {
+    background:transparent url(https://i.imgur.com/vODT8BV.png) !important;
+}
+
+[style*='nose/1/icons/2.png']  {
+    background:transparent url(https://i.imgur.com/tva85Sk.png) !important;
+}
+
+[style*='nose/1/icons/3.png']  {
+    background:transparent url(https://i.imgur.com/LGzTg6t.png) !important;
+}
+
+/* гривы */
+[style*='base_mane/icons/3.png']  {
+    background:transparent url(https://i.imgur.com/wmJeYTz.png) !important;
+}
+
+[style*='base_mane/icons/2.png']  {
+    background:transparent url(https://i.imgur.com/0AReUpb.png) !important;
+}
+
+[style*='base_mane/icons/1.png']  {
+    background:transparent url(https://i.imgur.com/pJJyfFo.png) !important;
+}
+
+/* хвосты */
+[style*='base_tail/icons/1.png']  {
+    background:transparent url(https://i.imgur.com/pJJyfFo.png) !important;
+}
+
+[style*='base_tail/icons/2.png']  {
+    background:transparent url(https://i.imgur.com/0AReUpb.png) !important;
+}
+
+[style*='base_tail/icons/7.png']  {
+    background:transparent url(https://i.imgur.com/wmJeYTz.png) !important;
+}
+
+[style*='base_tail/icons/3.png']  {
+    background:transparent url(https://i.imgur.com/c1urJqd.png) !important;
+}
+
+[style*='base_tail/icons/4.png']  {
+    background:transparent url(https://i.imgur.com/EGqZfgL.png) !important;
+}
+
+[style*='base_tail/icons/5.png']  {
+    background:transparent url(https://i.imgur.com/weMd6fQ.png) !important;
+}
+
+[style*='base_tail/icons/6.png']  {
+    background:transparent url(https://i.imgur.com/7fGT63S.png) !important;
+}
+
+/* шерсть */
+[style*='base_hair/icons/1.png']  {
+    background:transparent url(https://i.imgur.com/pJJyfFo.png) !important;
+}
+
+[style*='base_hair/icons/2.png']  {
+    background:transparent url(https://i.imgur.com/0AReUpb.png) !important;
+}
+
+[style*='base_hair/icons/3.png']  {
+    background:transparent url(https://i.imgur.com/wmJeYTz.png) !important;
+}
+
+/* уши */
+[style*='base_ears/icons/1.png']  {
+    background:transparent url(https://i.imgur.com/pJJyfFo.png) !important;
+}
+
+[style*='base_ears/icons/2.png']  {
+    background:transparent url(https://i.imgur.com/0AReUpb.png) !important;
+}
+
+[style*='base_ears/icons/3.png']  {
+    background:transparent url(https://i.imgur.com/wmJeYTz.png) !important;
+}
+
+[style*='base_ears/icons/4.png']  {
+    background:transparent url(https://i.imgur.com/c1urJqd.png) !important;
+}
+
+[style*='base_ears/icons/5.png']  {
+    background:transparent url(https://i.imgur.com/EGqZfgL.png) !important;
+}
+
+/* глаза */
+[style*='eyes/1/icons.png']  {
+    background:transparent url(https://i.imgur.com/dcYSNuF.png) !important;
+}
+
+[style*='/eye_right/1/icons.png']  {
+    background:transparent url(https://i.imgur.com/OX0PVmw.png) !important;
+}
