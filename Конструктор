@@ -1,3 +1,5 @@
+@-moz-document url-prefix("https://catwar.su/cw3/kns"),url-prefix("https://catwar.net/cw3/kns") {
+
 /* цвет фона */
 html, .other_cats_list,  #main, body {
     background-color: #484545 !important;
@@ -265,7 +267,7 @@ input, button, select {
 [style*='eyes/1/icons.png']  {
     background:transparent url(https://i.imgur.com/dcYSNuF.png) !important;
 }
-
+}
 [style*='/eye_right/1/icons.png']  {
     background:transparent url(https://i.imgur.com/OX0PVmw.png) !important;
 }
